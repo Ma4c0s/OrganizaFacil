@@ -134,14 +134,14 @@ h1 {
 }
 
 .features-text h2{
-    color: #111;
+    color: #666666;
     font-size: 3rem;
     line-height: 1.2;
     margin-bottom: 25px;
 }
 
 .description{
-    color: #666;
+    color: #cecece;
     line-height: 1.6;
 }
 
@@ -189,12 +189,12 @@ h1 {
 
     margin-bottom: 15px;
 
-    color: #111;
+    color: #666666;
 }
 
 .feature-card p{
 
-    color: #666;
+    color: #cacaca;
 
     line-height: 1.7;
 }
